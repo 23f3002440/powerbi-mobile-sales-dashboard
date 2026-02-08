@@ -1,14 +1,13 @@
 Interactive Power BI dashboard analyzing mobile sales data
 
 Mobile Sales Dashboard – Power BI Project
-🔹 Project Overview
 
+🔹 Project Overview
 This project is an interactive Power BI dashboard built to analyze mobile phone sales data across multiple dimensions such as city, brand, mobile model, payment method, time, and customer ratings.
 The dashboard provides actionable insights into sales performance, customer behavior, and transaction trends.
 
 
 🔹 Key Learnings & Skills Applied
-
 ✔ Understanding and cleaning raw sales data
 ✔ Creating a Custom Calendar Table
 ✔ Building relationships in the data model
@@ -18,7 +17,6 @@ The dashboard provides actionable insights into sales performance, customer beha
 
 
 🔹 Dashboard Features
-
 📌 Total Sales, Total Quantity, Transactions, Average Price KPIs
 📌 City-wise sales distribution (Pie Chart)
 📌 Monthly sales trend analysis
@@ -59,15 +57,13 @@ Excel / CSV Dataset
 
 ## 📸 Project Screenshots
 
-## 📸 Project Screenshots
-
 ### 📊 Dashboard Overview
-<img src="Screenshots/dashboard.png" width="800"/>
+<img src="./Dashboard.png" width="800">
 
 ### 🧩 Data Model
-<img src="Screenshots/data_model.png" width="800"/>
+<img src="./Data_Model.png" width="800">
 
 ### 📋 Table View
-<img src="Screenshots/table_view.png" width="800"/>
+<img src="./Table_View.png" width="800">
 
 
